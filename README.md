@@ -1,2 +1,2 @@
-# my-first-repo EK WARI FYR
+# my-first-repo minor UPDATE
 Practic Account for Learning Git
